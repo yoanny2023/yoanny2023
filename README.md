@@ -1,20 +1,21 @@
 ## Hi there 👋
 
-### My name is Yoanny, Junior Frontend Developer and Electrical Engineer. I love building applications to impact real-life problems.
+### 🤔 Who am I ?
+My name is Yoanny, Junior Frontend Developer and Electrical Engineer. I love building applications to impact real-life problems.
 - 😄 Pronouns: I / him.
 - 💬 Ask me about React,Javascript.
 - 🌱 I’m currently learning Next.js.
 - ⚡ Fun fact: I like researching about Human existence.
 
-## Technologies, I currently work with
-- HTML
-- TailwindCSS
-- Javascript
-- React
-- Next.js
+## 🌟 Technologies, I currently work with:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## Techology I have slightly worked with
-- SAP ABAP
+## ⭐ Technology I have slightly worked with:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="50px" />
 
 <!--
 **yoanny2023/yoanny2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
