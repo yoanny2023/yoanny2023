@@ -17,7 +17,7 @@ My name is Yoanny, Junior Frontend Developer and Electrical Engineer. I love bui
 ## ⭐ Technology I have slightly worked with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="50px" />
 
-## Status
+## 📋 Status 
 <div align="center">
   
 [![Yoanny's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoanny2023&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,7 +30,7 @@ My name is Yoanny, Junior Frontend Developer and Electrical Engineer. I love bui
 
 </div>
 
-## Reach me! ✋
+## 🔍 Reach me! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoanny-vasco-358399132/)
 
 <!--
