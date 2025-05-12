@@ -30,6 +30,9 @@ My name is Yoanny, Junior Frontend Developer and Electrical Engineer. I love bui
 
 </div>
 
+## Reach me! ✋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoanny-vasco-358399132/)
+
 <!--
 **yoanny2023/yoanny2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
