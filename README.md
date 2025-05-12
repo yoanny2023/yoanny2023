@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### My name is Yoanny, Junior Frontend Developer and Electrical Enginner. I love building applications to impact real-life problems.
+- 😄 Pronouns: I / him.
+- 💬 Ask me about React,javacript.
+- 🌱 I’m currently learning Next.js.
+- ⚡ Fun fact: I like researching about human existence.
+
 <!--
 **yoanny2023/yoanny2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
