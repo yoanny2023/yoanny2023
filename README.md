@@ -1,4 +1,4 @@
-## Hi there 👋
+![Welcome-image](./github-header-image.png)
 
 ### 🤔 Who am I ?
 My name is Yoanny, Junior Frontend Developer and Electrical Engineer. I love building applications to impact real-life problems.
