@@ -17,6 +17,19 @@ My name is Yoanny, Junior Frontend Developer and Electrical Engineer. I love bui
 ## ⭐ Technology I have slightly worked with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="50px" />
 
+## Status
+<div align="center">
+  
+[![Yoanny's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoanny2023&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ## Languages -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoanny2023&hide=ejs&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoanny2023&theme=darcula) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoanny2023&theme=dracula&rank=C,B,A,AA,AAA,S&margin-w=15&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 <!--
 **yoanny2023/yoanny2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
