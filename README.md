@@ -6,6 +6,16 @@
 - 🌱 I’m currently learning Next.js.
 - ⚡ Fun fact: I like researching about Human existence.
 
+## Technologies, I currently work with
+- HTML
+- TailwindCSS
+- Javascript
+- React
+- Next.js
+
+## Techology I have slightly worked with
+- SAP ABAP
+
 <!--
 **yoanny2023/yoanny2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
