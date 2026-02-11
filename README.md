@@ -3,8 +3,8 @@
 ### 🤔 Who am I ?
 My name is Yoanny, Frontend Developer and Electrical Engineer. I love building applications to impact real-life problems.
 - 😄 Pronouns: I / him.
-- 💬 Ask me about React,Javascript.
-- 🌱 I’m currently learning Next.js.
+- 💬 Ask me about React, Javascript, Next.js, Typescript, Tailwind.
+- 🌱 I’m currently learning express.
 - ⚡ Fun fact: I like researching about Human existence.
 
 ## 🌟 Technologies, I currently work with:
