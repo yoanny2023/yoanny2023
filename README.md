@@ -1,7 +1,7 @@
 ![Welcome-image](./github-header-image.png)
 
 ### 🤔 Who am I ?
-My name is Yoanny, Junior Frontend Developer and Electrical Engineer. I love building applications to impact real-life problems.
+My name is Yoanny, Frontend Developer and Electrical Engineer. I love building applications to impact real-life problems.
 - 😄 Pronouns: I / him.
 - 💬 Ask me about React,Javascript.
 - 🌱 I’m currently learning Next.js.
